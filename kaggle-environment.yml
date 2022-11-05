@@ -1,0 +1,11 @@
+name: kaggle
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - ipython
+  - jupyter
+  - ipykernel
+
+
